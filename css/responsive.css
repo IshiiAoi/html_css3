@@ -1,0 +1,226 @@
+@media (max-width: 375px) {
+  .container {
+    padding: 0 15px;
+  }
+  header .header-top {
+    width: 100%;
+    height: 60px;
+  }
+  header .header-top .header-logo {
+    width: 100px;
+    height: 38px;
+    top: 15px;
+  }
+  header .header-top .header-list {
+    margin: 0;
+    margin-top: 11px;
+    padding: 8px 24px;
+    width: 144px;
+    height: 38px;
+  }
+  header .header-top .header-list a {
+    font-size: 16px;
+  }
+  header .header-image {
+    width: 100%;
+    height: 686px;
+    padding: 70px 0;
+    position: relative;
+  }
+  header .header-image .text {
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 328px;
+  }
+  header .header-image .text h2, header .header-image .text p {
+    margin: 0;
+  }
+  header .header-image .text h2 {
+    font-size: 30px;
+    margin-bottom: 26px;
+  }
+  header .header-image .text p {
+    height: 98px;
+    font-size: 16px;
+    margin-bottom: 26px;
+  }
+  header .header-image .text .link1 {
+    width: 166px;
+    font-size: 17px;
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px;
+    margin-bottom: 12px;
+  }
+  header .header-image .text .link2 {
+    width: 256px;
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px;
+  }
+  header .header-image .img-wrapper {
+    margin: 0;
+    width: 100%;
+    height: 198px;
+    position: absolute;
+  }
+  header .header-image .img-wrapper img {
+    width: 100%;
+    top: 70px;
+  }
+  #topics {
+    margin: 0;
+    padding-top: 70px;
+    height: 1300px;
+  }
+  #topics h2 {
+    font-size: 26px;
+  }
+  #topics img {
+    width: 250px;
+    margin: 0;
+    margin-bottom: 65px;
+  }
+  #topics .tpi-wrapper {
+    width: 100%;
+  }
+  #topics .tpi-wrapper .topic {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  #rab-intro {
+    width: 100%;
+    height: 1950px;
+    padding: 0;
+    padding: 70px 0;
+  }
+  #rab-intro h2 {
+    font-size: 26px;
+  }
+  #rab-intro img {
+    width: 250px;
+    margin: 0;
+  }
+  #rab-intro .intro-wrapper {
+    width: 100%;
+  }
+  #rab-intro .intro-wrapper .intro {
+    width: 100%;
+    position: static;
+    height: 450px;
+  }
+  #rab-intro .intro-wrapper .intro .image {
+    width: 100%;
+    height: 230px;
+    margin-bottom: 20px;
+    position: static;
+    -webkit-box-shadow: 1px 1px 4px #3f3a3a;
+            box-shadow: 1px 1px 4px #3f3a3a;
+  }
+  #rab-intro .intro-wrapper .intro .img-left {
+    left: 0;
+  }
+  #rab-intro .intro-wrapper .intro .text {
+    width: 100%;
+    text-align: left;
+    margin: 0;
+  }
+  #rab-intro .intro-wrapper .intro .text h3, #rab-intro .intro-wrapper .intro .text p {
+    margin: 0;
+  }
+  #rab-intro .intro-wrapper .intro .text h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  #rab-intro .intro-wrapper .intro .text p {
+    font-size: 14px;
+  }
+}
+
+.news-wrapper {
+  width: 100%;
+  height: 1235px;
+}
+
+.news-wrapper .news-top h2 {
+  font-size: 26px;
+}
+
+.news-wrapper .news-top img {
+  width: 250px;
+  margin: 0;
+}
+
+.news-wrapper .news-items {
+  width: 100%;
+  clear: both;
+}
+
+.news-wrapper .news-items .thing {
+  width: 100%;
+  clear: both;
+  margin: 0;
+  margin-bottom: 50px;
+}
+
+#form {
+  width: 100%;
+  padding: 0 20px;
+}
+
+#form h2 {
+  font-size: 26px;
+}
+
+#form img {
+  width: 250px;
+  margin: 0;
+}
+
+#form .form-content {
+  width: 100%;
+}
+
+#form .form-content .written p {
+  width: 100%;
+  clear: both;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+#form .form-content .written input, #form .form-content .written textarea {
+  width: 100%;
+  clear: both;
+}
+
+footer {
+  width: 100%;
+  height: 330px;
+}
+
+footer .footer-logo {
+  width: 120px;
+  height: 45px;
+}
+
+footer .footer-list {
+  width: 100%;
+  height: 110px;
+}
+
+footer .footer-list p {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 0;
+}
+
+footer .footer-list span {
+  display: none;
+}
+
+footer .copy {
+  width: 100%;
+  font-size: 14px;
+}
+/*# sourceMappingURL=responsive.css.map */
